@@ -1,11 +1,10 @@
 <script setup lang="ts">
 
+import BlogPosts from "~/pages/BlogPosts.vue";
 </script>
 
 <template>
-  <div>
-    Menu
-  </div>
+  <BlogPosts/>
 </template>
 
 <style scoped>

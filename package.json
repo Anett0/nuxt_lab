@@ -12,8 +12,11 @@
   "dependencies": {
     "@nuxt/ui": "^2.15.0",
     "@vueuse/nuxt": "^10.9.0",
+    "axios": "^1.7.2",
+    "dayjs": "^1.11.11",
     "nuxt": "^3.11.1",
     "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue-router": "^4.3.0",
+    "zod": "^3.23.8"
   }
 }
